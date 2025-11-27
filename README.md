@@ -11,7 +11,10 @@ I'm passionate about cybersecurity and cloud computing.I love tackling complex c
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
+## AWS cloud Projects
+- **[School 3 tiers Webapp](https://github.com/yannickwo/School-3-tiers-Webapp)**
+ 
+- **[AWS Labs and POC](https://github.com/yannickwo/AWS-labs)**
 <hr/>
 
 ## 🤳 Connect With Me

@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and cloud computing.I love tackling complex c
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/yannickwo/Vulnerability-Management-Program-Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/yannickwo/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
